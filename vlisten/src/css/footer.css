@@ -1,0 +1,50 @@
+.footer{
+    display: flex;
+    margin-top: 100px;
+    background: rgb(48,98,220);
+    background: linear-gradient(90deg, rgba(48,98,220,0.8412407199207808) 35%, rgba(136,85,209,0.7852183109571954) 78%);
+    padding: 10px 10px 10px 10px;
+}
+
+.quick_links{
+    margin-left: 6rem;
+    margin-right: 16rem;
+    color: black;
+}
+.quick_link_head{
+    color: black;
+    margin-bottom: 30px;
+}
+
+
+.contact_us{
+    margin-left: 3rem;
+    margin-right: 14rem;
+    color: black;
+}
+.contact_us_head{
+    color: black;
+    margin-left: 0.9rem;
+}
+
+
+.footer_news{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+.footer_news > input{
+    border: none;
+    border-radius: 10px;
+}
+.subscribe > h4{
+    color: black;
+}
+
+.submit{
+    margin-left: 130px;
+}
+.submit > *{
+    border-radius: 10px;
+    transition: 0.5s;
+}

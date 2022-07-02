@@ -1,0 +1,26 @@
+.container1{
+    margin-top: 40px;
+    width: 100%;
+    min-height: 400px;
+    overflow-x: hidden;
+    margin-bottom: 100px;
+}
+
+#about_text{
+    padding-left: 4%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.text_heading{
+    padding-bottom: 20px;
+}
+
+#about_img{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#about_img > img{
+    padding-top: 20px;
+    height: 300px;
+    width: 100%;
+}
